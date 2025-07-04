@@ -186,4 +186,7 @@ CORS_ALLOWED_ORIGINS = [
 ]
 CORS_ALLOW_ALL_ORIGINS = True
 
+ALLOWED_HOSTS = ['controlegastosbackend.onrender.com']
+
+
 # ...
